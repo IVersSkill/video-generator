@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/IVersSkill/video-generator/issues"
   },
-  "homepage": "https://github.com/IVersSkill/video-generator#readme"
+  "homepage": "https://github.com/IVersSkill/video-generator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
